@@ -5,6 +5,7 @@
   * [Linked list](#linked-list)
   * [Stack](#stack)
   * [Queue](#queue)
+  * [Hash Table](#hash-table)
 
 ## Computer Science Roadmap
 
