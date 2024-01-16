@@ -29,3 +29,8 @@ There's no built-in stack in Swift, but you can make your own: [example](./Stack
 Queue is a linear collection of items where items are inserted and removed in a particular order. The queue is also called a FIFO Data Structure because it follows the “First In, First Out” principle i.e., the item that is inserted in the first is the one that is taken out first.
 
 [Example](./Queue.md)
+
+### Hash Table
+A hash table is a data structure that stores key-value pairs and allows for fast retrieval of values based on their keys. In Swift, the equivalent of a hash table is a Dictionary. Swift dictionaries are collections of key-value pairs where each key is associated with a value
+
+[Example](./Dictionary.md)
