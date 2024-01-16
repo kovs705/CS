@@ -3,6 +3,7 @@
 * [Computer Science Roadmap](#computer-science-roadmap)
 * [Data Structures](#data-structures)
   * [Linked list](#linked-list)
+  * [Stack](#stack)
 
 ## Computer Science Roadmap
 
