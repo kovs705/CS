@@ -47,4 +47,4 @@ A full binary tree is a type of binary tree in which every node has either zero 
 This means that all the nodes in the tree are either leaf nodes (nodes without children) or internal nodes (nodes with children). 
 It's commonly used in binary decision-making algorithms, as every node contains two paths, either a "yes" or a "no."
 
-[Example](./Examples/Trees/FullBinaryTree.swifr)
+[Example](./Examples/Trees/FullBinaryTree.md)
