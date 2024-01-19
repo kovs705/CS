@@ -41,3 +41,10 @@ A hash table is a data structure that stores key-value pairs and allows for fast
 A tree is non-linear and a hierarchical data structure consisting of a collection of nodes such that each node of the tree stores a value and a list of references to other nodes (the “children”).
 
 [Example and Info](./Examples/Trees/BinaryTree.md)
+
+## Full binary tree
+A full binary tree is a type of binary tree in which every node has either zero or two children. 
+This means that all the nodes in the tree are either leaf nodes (nodes without children) or internal nodes (nodes with children). 
+It's commonly used in binary decision-making algorithms, as every node contains two paths, either a "yes" or a "no."
+
+[Example](./Examples/Trees/FullBinaryTree.swifr)
