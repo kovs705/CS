@@ -25,7 +25,7 @@ Example in Swift.
 ### Stack
 Stack is a linear collection of items where items are inserted and removed in a particular order. Stack is also called a LIFO Data Structure because it follows the “Last In First Out” principle i.e. the item that is inserted in the last is the one that is taken out first.
 
-There's no built-in stack in Swift, but you can make your own: [example](./Stack.swift)
+There's no built-in stack in Swift, but you can make your own: [Example](./Examples/Stack.swift)
 
 ### Queue
 Queue is a linear collection of items where items are inserted and removed in a particular order. The queue is also called a FIFO Data Structure because it follows the “First In, First Out” principle i.e., the item that is inserted in the first is the one that is taken out first.
@@ -38,13 +38,24 @@ A hash table is a data structure that stores key-value pairs and allows for fast
 [Example](./Examples/Dictionary.md)
 
 ## Trees
+[Trees, author - Paul Hudson](https://www.hackingwithswift.com/plus/data-structures/trees)
+
 A tree is non-linear and a hierarchical data structure consisting of a collection of nodes such that each node of the tree stores a value and a list of references to other nodes (the “children”).
 
 [Example and Info](./Examples/Trees/BinaryTree.md)
 
-## Full binary tree
+### Full binary tree
 A full binary tree is a type of binary tree in which every node has either zero or two children. 
 This means that all the nodes in the tree are either leaf nodes (nodes without children) or internal nodes (nodes with children). 
 It's commonly used in binary decision-making algorithms, as every node contains two paths, either a "yes" or a "no."
 
 [Example](./Examples/Trees/FullBinaryTree.md)
+
+### Complete Binary Tree
+A complete binary tree is a special type of binary tree where all the levels of the tree are filled completely except the lowest level nodes which are filled from as left as possible.
+
+Example in progress
+
+### Balanced Tree
+In progress
+
