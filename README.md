@@ -57,5 +57,5 @@ A complete binary tree is a special type of binary tree where all the levels of 
 [Example](./Examples/Trees/CompleteBinaryTree.md)
 
 ### Balanced Tree
-In progress
-
+A balanced binary tree is a binary tree in which the height of the left and right subtree of any node differ by not more than 1.
+[Example](./Examples/Trees/BalancedTree.md)
