@@ -1,9 +1,10 @@
+
 Conditions for a height-balanced binary tree:
 1. Difference between the left and the right subtree for any node is not more than one
 2. The left subtree is balanced
 3. The right subtree is balanced
 
-Visual representation of Balanced tree:
+Visual representation of `Balanced tree`:
 ```swift
     1 (Depth 0)
    / \
@@ -15,6 +16,22 @@ In this tree:
 - The root node (1) has a depth of 0.
 - Its children (2 and 3) are at depth 1.
 - The children of node 2 (4 and 5) and the right child of node 3 (6) are at depth 2.
+
+Visual representation of `Unbalanced tree`:
+```swift
+    1 (Depth 0)
+   / \
+  2   3 (Depth 1)
+ / \   \
+4   5   6 (Depth 2)
+       / \
+      7   8 (Depth 3)
+```
+In this tree:
+- The root node (1) has a depth of 0.
+- Its children (2 and 3) are at depth 1.
+- The children of node 2 (4 and 5) and the right child of node 3 (6) are at depth 2.
+- The children of node 6 (7 and 8) are at depth 3.
 
 
 To determine if a binary tree is balanced in Swift, you would calculate the height of the left and right subtrees for each node and ensure that the difference is not more than one.
