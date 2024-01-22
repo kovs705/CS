@@ -54,7 +54,7 @@ It's commonly used in binary decision-making algorithms, as every node contains 
 ### Complete Binary Tree
 A complete binary tree is a special type of binary tree where all the levels of the tree are filled completely except the lowest level nodes which are filled from as left as possible.
 
-Example in progress
+[Example](./Examples/Trees/CompleteBinaryTree.md)
 
 ### Balanced Tree
 In progress
