@@ -7,6 +7,7 @@
   * [Queue](#queue)
   * [Hash Table](#hash-table)
   * [Trees](#trees)
+  * [Graphs](#graphs)
 
 ## Computer Science Roadmap
 
@@ -60,3 +61,6 @@ A complete binary tree is a special type of binary tree where all the levels of 
 A balanced binary tree is a binary tree in which the height of the left and right subtree of any node differ by not more than 1.
 
 [Example](./Examples/Trees/BalancedTree.md)
+
+## Graphs
+[Link to Graphs folder](https://github.com/kovs705/Swift-ComputerScience/tree/main/Graphs)
